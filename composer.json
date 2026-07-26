@@ -1,12 +1,12 @@
 {
-    "name": "ksujeet2607/easy-framework",
-    "description": "Easy — a lightweight PHP framework (routing, DI, HTTP, middleware, templating, security).",
+    "name": "jnana/easy-framework",
+    "description": "Jnana — a lightweight PHP framework (routing, DI, HTTP, middleware, templating, security) framework.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "you@example.com"
+            "name": "Sujeet Kahar",
+            "email": "kaha26sujeet@gmail.com"
         }
     ],
     "require": {

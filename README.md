@@ -1,4 +1,4 @@
-# Easy
+# Jnana
 
 A lightweight PHP framework: DI-based routing (`nikic/fast-route` + `php-di`), an
 HTTP layer (Request/Response/RedirectResponse), middleware pipeline, session
@@ -13,7 +13,7 @@ repo installs as a dependency.
 ## Install
 
 ```bash
-composer require ksujeet2607/easy-framework
+composer require jnana/framework
 ```
 
 ## Wiring it into your app
