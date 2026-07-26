@@ -1,5 +1,5 @@
 {
-    "name": "jnana/easy-framework",
+    "name": "jnana/framework",
     "description": "Jnana — a lightweight PHP framework (routing, DI, HTTP, middleware, templating, security) framework.",
     "type": "library",
     "license": "MIT",
